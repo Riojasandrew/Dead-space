@@ -1,0 +1,4 @@
+﻿  DeadSpace.cpp
+C:\Users\Andrew Riojas\source\repos\DeadSpace\DeadSpace\DeadSpace.cpp(60,29): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Andrew Riojas\source\repos\DeadSpace\DeadSpace\DeadSpace.cpp(42,9): warning C4101: 'uin': unreferenced local variable
+  DeadSpace.vcxproj -> C:\Users\Andrew Riojas\source\repos\DeadSpace\x64\Debug\DeadSpace.exe
